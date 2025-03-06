@@ -35,6 +35,12 @@
   "suggest": {
     "Marishop/notify": "Simple flash notifications for Laravel"
   },
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/USERNAME/marishop-shoppingcart"
+    }
+],
   "minimum-stability": "stable",
   "extra": {
     "laravel": {
