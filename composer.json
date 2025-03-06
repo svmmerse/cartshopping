@@ -41,7 +41,8 @@
         "url": "https://github.com/svmmerse/cartshopping"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "extra": {
     "laravel": {
       "providers": [
