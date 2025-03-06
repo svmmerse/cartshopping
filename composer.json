@@ -38,9 +38,9 @@
   "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/USERNAME/marishop-shoppingcart"
+        "url": "https://github.com/svmmerse/cartshopping"
     }
-],
+  ],
   "minimum-stability": "stable",
   "extra": {
     "laravel": {
