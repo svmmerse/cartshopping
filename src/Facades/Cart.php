@@ -1,5 +1,5 @@
 <?php
-namespace Surfsidemedia\Shoppingcart\Facades;
+namespace Marishop\Shoppingcart\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
